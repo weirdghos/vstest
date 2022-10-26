@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\chengxudata\\stm32\\vstest\\build",
+            "binaryPath": "d:\\chengxudata\\stm32\\vstest\\build\\vstest.elf",
+            "binaryArgs": []
+        }
+    ]
+}
